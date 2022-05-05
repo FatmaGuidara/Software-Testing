@@ -20,7 +20,7 @@ First, it starts by recognizing the operation drawn in the images, convert it in
 -  the function that transforms the string into a result (if we provide a division by 0) : **test_string2op**
 -  the function that transforms the image into a result number : **test_calculus**
 
-- Output:
+# Output:
 
 ![output](https://user-images.githubusercontent.com/62222721/166967461-36e7941e-5280-4ad4-9e0b-c9223f529ea9.png)
 
