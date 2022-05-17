@@ -9,6 +9,8 @@ It's a Flask API that handles the get, post, delete of a todo.
 ```cmd
 $  py -3 -m venv .venv
 $  .venv\Scripts\activate
+$  pip install -r requirements.txt
+$  pip install -r requirements-dev.txt
 ```
 ```cmd
 $  set DATABASE_FILENAME=todos.db
