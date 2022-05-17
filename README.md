@@ -1,7 +1,6 @@
 # Software Testing
 
-We will be performing threelevels of tests :
+We will be performing two levels of tests :
 
-1. Unit Tests
-2. Integration Tests
-3. End to End Tests
+1. **Component Level:** ( Unit Tests, Integration Tests)
+3. **System Level:** ( End to End Tests )
