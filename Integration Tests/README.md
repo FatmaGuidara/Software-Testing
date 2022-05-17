@@ -35,8 +35,11 @@ and the Flask server should be running
 $  pytest -v
 ```
 **Preview**
+![pytest](https://user-images.githubusercontent.com/62222721/168854480-cffb50d2-ff44-41c2-ba86-357fe301c902.png)
+
 
 ```cmd
 $  pytest -vvv --cov=app tests/
 ```
 **Preview**
+![cov](https://user-images.githubusercontent.com/62222721/168854578-db8bab53-8348-4144-b904-b2ab54d09663.png)
