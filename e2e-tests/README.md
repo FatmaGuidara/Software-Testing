@@ -13,5 +13,5 @@ https://user-images.githubusercontent.com/62222721/168907790-74de6420-f492-40d1-
 ```cmd
 $  yarn add cypress
 $  ./node_modules/.bin/cypress run
-$  ./node_modules/.bin/cypress open (t7el IDE)
+$  ./node_modules/.bin/cypress open
 ```
